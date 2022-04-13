@@ -1,12 +1,15 @@
 <div id="top"></div>
 
 <!-- insert badges here -->
+![GitHub](https://img.shields.io/github/last-commit/afonsok/teste1)
+![GitHub](https://img.shields.io/github/commit-activity/m/afonsok/teste1)
+![GitHub](https://img.shields.io/github/release-date/afonsok/teste1)
+![GitHub](https://img.shields.io/github/commits-since/afonsok/teste1/0.0.0)
+![GitHub](https://img.shields.io/github/contributors/afonsok/teste1)
+
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub](https://img.shields.io/badge/github/variant/afonsok/teste1)
-![GitHub](https://img.shields.io/badge/github/last-commit/afonsok/teste1)
-![GitHub](https://img.shields.io/badge/github/commit-activity/interval/afonsok/teste1)
 
 # Project Name
 
@@ -59,6 +62,7 @@ The following tools were used in building the project.
 Before starting, you will need to have the following tools installed on your machine:
 
 ![Git](./images/git-icon.svg) [Git](https://git-scm.com/)
+
 ![git](https://img.shields.io/badge/git->=v2.35.1.windows.2-blue)
 
 <p align="right"><a href="#top">back to top</a></p>
