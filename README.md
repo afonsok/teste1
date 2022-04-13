@@ -63,7 +63,7 @@ Before starting, you will need to have the following tools installed on your mac
 
 ![Git](./images/git-icon.svg) [Git](https://git-scm.com/)
 
-![git](https://img.shields.io/badge/git->=v2.35.1.windows.2-blue)
+![git](https://img.shields.io/badge/git%20version-%3E%3D%20v2.35.1.windows.2-blue)
 
 <p align="right"><a href="#top">back to top</a></p>
 
@@ -129,6 +129,6 @@ git commit -m 'Initial project version'
 
 ## 📝 License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right"><a href="#top">back to top</a></p>
