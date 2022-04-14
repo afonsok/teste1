@@ -66,6 +66,7 @@ Before starting, you will need to have the following tools installed on your mac
 ![git](https://img.shields.io/badge/git%20version-%3E%3D%20v2.35.1.windows.2-blue)
 
 ![Git](https://img.shields.io/badge/Git-Bbbb-blue?style=for-the-badge&logo=git&logoWidth=30&labelColor=abcdef&logoColor=violet&logoHeigth=30)
+![Git](https://img.shields.io/badge/?label=Git&message=v2.35.1.windows.2&color=blue&style=for-the-badge&logo=git&logoWidth=30&labelColor=abcdef&logoColor=violet&logoHeigth=200)
 
 
 <p align="right"><a href="#top">back to top</a></p>
